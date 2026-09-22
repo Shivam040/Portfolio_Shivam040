@@ -33,12 +33,13 @@ export type HackathonSection = {
 export const site = {
   name: "Shivam Dangwal",
   headline:
-    "ML/DL + GenAI engineer focused on robust models, practical deployments, and clean end-to-end systems.",
+    "Agentic AI / AI Engineer building reliable LLM systems with multi-agent orchestration, MCP, RAG, tool calling, human-in-the-loop workflows, evaluation, and production backend engineering..",
   npx: "npx shivam040",
   about: [
-    "B.Tech (CSE — AI & ML), GB Pant Institute of Engineering and Technology (2022–2026).",
+    "B.Tech (CSE — AI & ML), G.B.P.I.E.T. (2022–2026), Agentic AI / AI Engineer",
     "Ex-intern @ DRDO SAG (Delhi) working on adversarial robustness for CNN classifiers using IBM ART across multiple architectures, threat models, and defenses.",
-    "I build applied projects across GenAI (multi-document Q&A), cloud deployments on GCP (Cloud Run, Firestore, Pub/Sub, Vertex AI), and data-driven ML (tabular modeling + evaluation).",
+    " I build reliable LLM systems with multi-agent orchestration, MCP, RAG, tool calling, human-in-the-loop workflows, evaluation, and production backend engineering.",
+    " Python · LangGraph · MCP · RAG · FastAPI · Docker",
   ].join("\n\n"),
 
   experience: [
